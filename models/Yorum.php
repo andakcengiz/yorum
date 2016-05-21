@@ -1,6 +1,6 @@
 <?php
 
-namespace backend\modules\yorum\models;
+namespace andakcengiz\yorum\models;
 
 use Yii;
 use common\models\User;
