@@ -1,11 +1,11 @@
 <?php
 
-namespace backend\modules\yorum\controllers;
+namespace andakcengiz\yorum\controllers;
 
 use Yii;
-use backend\modules\yorum\models\Tip;
-use backend\modules\yorum\models\Yorum;
-use backend\modules\yorum\models\TipSearch;
+use andakcengiz\yorum\models\Tip;
+use andakcengiz\yorum\models\Yorum;
+use andakcengiz\yorum\models\TipSearch;
 use yii\web\Controller;
 use yii\web\NotFoundHttpException;
 use yii\filters\VerbFilter;
